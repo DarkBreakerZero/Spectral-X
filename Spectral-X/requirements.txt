@@ -1,0 +1,14 @@
+pybind11==2.12
+opencv-python
+matplotlib
+scipy
+pydicom
+tiffile
+json5
+scikit-image
+imageio
+tensorboard
+tensorboardX
+pytorch_wavelets
+PyWavelets
+gpustat
