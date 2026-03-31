@@ -20,6 +20,7 @@ Yikun Zhang, Jiashun Wang, Xi Wang, et al.
     (d6) Enhanced prior image in PCCT.
   </figcaption>
 </figure>
+
 ## Architecture Diagram
 <p align="center"> <img src="./assets/Network.jpg" width="100%"> </p>
 
